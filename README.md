@@ -41,6 +41,8 @@ Created tenure bands:
 6–10 yrs
 
 10+ yrs
+![Attrition Rate](images/attrition_rate.png)
+![Average](images/average.png)
 
 ### 2. Business Questions & Queries
  1. Average salary by department
